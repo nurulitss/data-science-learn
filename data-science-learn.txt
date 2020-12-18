@@ -1,1 +1,9 @@
 Nurulita's resolution
+=======================
+1. Belajar Data Science:
+  a. Learn Git & Github
+  b. Mastering python
+  c. Data set
+  d. EDA
+  c. Data visualization
+  d. Data Clasification
